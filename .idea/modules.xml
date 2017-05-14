@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mortgageapp.iml" filepath="$PROJECT_DIR$/mortgageapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mortgageserver/mortgageserver.iml" filepath="$PROJECT_DIR$/mortgageserver/mortgageserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mortgageui/mortgageui.iml" filepath="$PROJECT_DIR$/mortgageui/mortgageui.iml" />
+    </modules>
+  </component>
+</project>
